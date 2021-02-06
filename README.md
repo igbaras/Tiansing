@@ -1,9 +1,8 @@
 ### Hi there, I'm Christian 👋
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/christianigbar1?color=1DA1F2&logo=twitter&style=for-the-badge)
 <p align="center">
 <a href="https://web.facebook.com/christian.igbaras/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-![Twitter Follow](https://img.shields.io/twitter/follow/christianigbar1?color=%231DA1F2&logo=Twitter&style=flat-square)
 <a href="https://www.linkedin.com/in/christian-igbaras-41b8a8203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
